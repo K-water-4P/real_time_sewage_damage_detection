@@ -30,4 +30,4 @@
 -----
 
 ### 자율주행 자동차 예시 코드.ipynb
-이 코드는 자율 주행 자동차가 실제로 주행할 수 있도록 구현되어있습니다. 본 자동차는 'Roborobo'(https://roborobo.co.kr) 의 'ROBO KIT(Series)'제품으로, 자동차와 노트북을 연결시키기 위해 필요한 소프트웨어의 설치 과정은 다음과 같습니다.
+이 코드는 자율 주행 자동차가 실제로 주행할 수 있도록 구현되어있습니다. 본 자동차는 'Roborobo'(https://roborobo.co.kr) 의 'ROBO KIT(Series)'제품으로, 자동차와 노트북을 연결시키기 위해서는 Roborobo의 공식 사이트(https://roborobo.co.kr/download/0)에서 소프트웨어를 다운받아야 합니다. 주행 코드를 실행시키기에 앞서서, 다운받은 소프트웨어를 설치한 후, 'RobokitRS'도 설치해야 합니다. 이것은 간단하게 노트북의 터미널 혹은 주피터 노트북 셀에서 'pip install RobokitRS'를 통해서 실행시킬 수 있습니다.
