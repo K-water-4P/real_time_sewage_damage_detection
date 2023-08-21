@@ -1,6 +1,8 @@
 # K-water 대국민 물 빅데이터 공모전 💧
 ## 실시간 하수도 손상 유형 탐지 및 자동 분류화: Real-time AI & 드론 자율 주행
 
+현재 repository는 **'K-water 대국민 물 빅데이터 공모전'**에 제출된 
+
 <div align="left">
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Ultralytics-024DA1?style=flat-square&logo=Ultralytics&logoColor=white"/>
@@ -17,3 +19,9 @@
 두 기기의 연결이 완료되면, 노트북에는 **'YOLOv8 Inference'이라는 팝업창**이 떠, 스마트폰으로 촬영된 영상 속 하수도의 손상 유형이 정확히 탐지하는지 확인하면 됩니다.
 
 -----
+
+### YOLOb8 학습 및 성능 평가.ipynb
+
+-----
+
+### 자율주행 자동차 예시 코드.ipynb
